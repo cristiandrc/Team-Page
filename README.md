@@ -1,6 +1,4 @@
-<!-- Please update value in the {}  -->
-
-<h1 align="center">{Error 404}</h1>
+<h1 align="center">{Team Page}</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://cristiandrc.github.io/Error404/index.html">
+    <a href="https://cristiandrc.github.io/Team-Page/index.html">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
       Challenge
     </a>
   </h3>
@@ -30,7 +28,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/71574354/117586359-4f528080-b0dd-11eb-9b18-e79b30302054.png)
+![screenshot](https://user-images.githubusercontent.com/71574354/117601416-f05c2e00-b113-11eb-9334-1a755c052242.png)
 
 
 
